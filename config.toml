@@ -1,24 +1,24 @@
-baseURL = "https://www.hendraa.my.id"
+baseURL = "https://sltnmsyffa.github.io"
 languageCode = "en-us"
-title = "Hendra Manudinata"
+title = "Sultan Tammam Musyaffa"
 theme = "PaperMod"
 
 [params.profileMode]
 enabled = true
-title = "Hendra Manudinata"
+title = "Sultan Tammam Musyaffa"
 imageUrl = "https://avatars.githubusercontent.com/u/109848194"
-imageTitle = "Hendra Manudinata"
+imageTitle = "Sultan Tammam Musyaffa"
 imageWidth = 165
 imageHeight = 165
 
 [[params.socialIcons]]
 name = "GitHub"
-url = "https://github.com/hdrmaa"
+url = "https://github.com/sltnmsyffa"
 
 [[params.socialIcons]]
 name = "Telegram"
-url = "https://t.me/hdrmaa"
+url = "https://t.me/itsprof"
 
 [[params.socialIcons]]
 name = "Instagram"
-url = "https://instagram.com/hdrmaa"
+url = "https://instagram.com/sltnTmsyffa"
